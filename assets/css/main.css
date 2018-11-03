@@ -4128,3 +4128,8 @@ input, select, textarea {
 		}
 
 	}
+
+
+html,body{
+    overflow: hidden;
+}
